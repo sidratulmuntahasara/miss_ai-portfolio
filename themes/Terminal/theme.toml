@@ -1,31 +1,13 @@
-name = 'Theme name'
-license = 'MIT'
-licenselink = 'https://github.com/owner/repo/LICENSE'
-description = 'Theme description'
+name = "terminal"
+license = "MIT"
+licenselink = "https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md"
+description = "A simple, retro theme for Hugo."
+homepage = "https://github.com/panr/hugo-theme-terminal/"
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "monotone", "multilingual", "personal", "responsive", "simple", "technical", "retro"]
+features = ["blog", "shortcode", "syntax highlighting"]
+min_version = 0.90
 
-# The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
-
-# If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
-
-# Taxonomy terms
-tags = ['blog', 'company']
-features = ['some', 'awesome', 'features']
-
-# If the theme has multiple authors
-authors = [
-  {name = 'Name of author', homepage = 'Website of author'},
-  {name = 'Name of author', homepage = 'Website of author'}
-]
-
-# If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
-
-# If porting an existing theme
-[original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
-  repo = 'https://github.com/owner/repo'
+  name = "panr"
+  homepage = "https://radoslawkoziel.pl"
+  twitter = "https://twitter.com/panr"
